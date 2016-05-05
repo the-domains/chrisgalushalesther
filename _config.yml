@@ -1,0 +1,28 @@
+name: chrisgalushalesther
+favicon: null
+layout_spectrum: 0.21087007620371878
+typography_spectrum: 0.8493812445085496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.38830086728557944
+  lightness: 0.1096862000413239
+  saturation: 0.640410864027217
+  rhythmicContrast: 0.3721848390996456
+purpose: []
